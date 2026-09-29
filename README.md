@@ -125,3 +125,40 @@ Give me the business summary.
 **Akshit Sharma**
 
 B.Tech — Artificial Intelligence & Machine Learning
+---
+
+## 📷 Dashboard Preview
+
+### 🏠 Overview
+
+![Overview Dashboard](screenshots/overview.png)
+
+---
+
+### 📊 Analytics
+
+![Analytics Dashboard](screenshots/analytics.png)
+
+---
+
+### 🔎 Anomaly Detection
+
+![Anomaly Detection](screenshots/anomalies.png)
+
+---
+
+### 🔮 Revenue Forecast
+
+![Revenue Forecast](screenshots/forecast.png)
+
+---
+
+### 🤖 Ask Your Data
+
+![Ask Your Data](screenshots/ask-data.png)
+
+---
+
+### 📄 Business Reports
+
+![Business Reports](screenshots/reports.png)
